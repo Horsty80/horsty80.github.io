@@ -1,0 +1,24 @@
+name: Deploy static content to GitHub Pages
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Generate open graph image
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Open Graph social cards
+        uses: Jasmin2895/open-graph-image@v1.1
+        with:
+            bold-text: "Open graph image"
+            plain-text: "for social media platform"
+            theme: "dark"
+      - name: Archive open graph image
+        uses: actions/upload-artifact@v2
+        with:
+            name: open-graph-image
+            path: og-image.now.sh.png
+      - name: Download all workflow run artifacts
+        uses: actions/download-artifact@v2
