@@ -39,6 +39,8 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -46,6 +48,7 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          postsPerPage: 8,
           feedOptions: {
             type: 'all',
             copyright: `Copyright © ${new Date().getFullYear()} -  Horsty\'s site.`,
@@ -95,6 +98,7 @@ const config = {
         },
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog/tags', label: 'Tags', position: 'left'},
           {
             href: 'https://github.com/Horsty80',
             // label: 'GitHub',
