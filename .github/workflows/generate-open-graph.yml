@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: Open Graph social cards
-        uses: Jasmin2895/open-graph-image@v1.1
+        uses: Jasmin2895/open-graph-image@v1.2
         with:
-            bold-text: "Open graph image"
-            plain-text: "for social media platform"
-            theme: "dark"
+            bold-text: "Horsty"
+            plain-text: "Découvrez ce blog sur le dev !"
+            theme: "light"
       - name: Archive open graph image
         uses: actions/upload-artifact@v2
         with:
