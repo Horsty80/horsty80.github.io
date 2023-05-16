@@ -74,7 +74,7 @@ Je fais beaucoup moins de fautes désormais, l'orthographe n'a jamais été mon 
 
 Désormais, j'arrive à mieux organiser mes idées : chercher à vulgariser une idée et la rendre accessible pour le plus grand nombre est un exercice très intéressant. Pour mieux m'approprier les sujets, j'ai du travailler sur la tournure des phrases, trouver d'autres mots et expliquer des termes ou des concepts : tout cela a été formateur. Je ne me suis jamais senti autant à l'aise sur les sujets que j'ai abordé que maintenant.
 
-J'ai énormément appris, par exemple, avant de vous partager un article sur les runner gitlab - [Tester ses pipelines en local](/blog/gitlabRunner) - j'ai testé sur mon ordi, j'ai du monter en compétence. L'idée de cet article m'est d'ailleurs venue en mettant en place cet outil pour répondre à un de mes propres besoins. Pourquoi garder pour soi un truc que vous trouvez génial ?
+J'ai énormément appris, par exemple, avant de vous partager un article sur les runner gitlab - [Tester ses pipelines en local](/blog/gitlab-runner) - j'ai testé sur mon ordi, j'ai du monter en compétence. L'idée de cet article m'est d'ailleurs venue en mettant en place cet outil pour répondre à un de mes propres besoins. Pourquoi garder pour soi un truc que vous trouvez génial ?
 
 > Est-ce que je le referai l'année prochaine ? Je ne pense pas, l'exercice était intéressant mais si je dois partager du contenu à nouveau ça serait sous un autre format. #Teaser : vous me retrouverez sans doute bientôt 😉.
 

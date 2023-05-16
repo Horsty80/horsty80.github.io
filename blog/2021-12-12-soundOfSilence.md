@@ -14,7 +14,7 @@ Pour conclure cette semaine, je vous propose de découvrir l'intégralité de la
 En effet, lors de mes précédents articles sur l'accessibilité :
 
 - [Are my colors accessible](/blog/aremycolorsaccessible)
-- [L'Api de transcription vocale](/blog/speechRecognition)
+- [L'Api de transcription vocale](/blog/reconnaissance-vocale)
 - [L'audit automatique de votre site](/blog/lighthouse)
 
 <!--truncate-->
