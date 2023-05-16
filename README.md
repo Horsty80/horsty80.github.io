@@ -1,3 +1,7 @@
+## Status 
+
+[![Deploy to GitHub Pages](https://github.com/Horsty80/horsty80.github.io/actions/workflows/gh-page.yml/badge.svg)](https://github.com/Horsty80/horsty80.github.io/actions/workflows/gh-page.yml)
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
