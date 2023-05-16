@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Horsty",
+  title: "Horsty - site d'un développeur web",
   tagline: "site d'un développeur web",
   favicon: 'img/uhue-logo.svg',
 
@@ -86,7 +86,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/open-graph-blog.jpg',
       navbar: {
         title: 'Horsty',
         logo: {
