@@ -18,7 +18,9 @@ Tout comme lui je vais vous expliquer comment j'ai mis en place mon blog avec Do
 ## GitHub pages - Vous saviez ?
 
 Si vous utilisez Github Page régulièrement vous savez surement que les sites herbergés sur GitHub pages sont générés à partir de la branche `gh-pages`. Le site sera accessible à l'adresse `https://<username>.github.io/<repository>`.
-Mais saviez vous qu'un nom de domaine racourci est disponible ? Il s'agit de `https://<username>.github.io` qui pointe vers la branche `gh-pages` du repository `<username>/<username>.github.io`. 
+Mais saviez vous qu'un nom de domaine racourci est disponible ? Il s'agit de `https://<username>.github.io` qui pointe vers la branche `gh-pages` du repository `<username>/<username>.github.io`.
+
+> Ça me permet de vous proposer une url plus courte pour accéder à mon blog : [https://horsty80.github.io](https://horsty80.github.io). 😇
 
 :::tip
 Merci à [tgrall](https://tgrall.github.io/) pour l'info je ne le savais pas.
@@ -68,7 +70,7 @@ Toute la documentation nécessaire se trouve ici : [GitHub Actions - Matrix stra
 Pour éviter de télécharger les dépendances à chaque fois que vous lancez votre workflow, je vous conseille d'utiliser le cache de GitHub Actions. Cela vous permettra de gagner du temps et de l'argent 🤑.
 Il se trouve que l'action `setup-node` que j'utilise pour installer pnpm gère le cache. Il suffit de lui passer le paramètre `cache` avec la valeur `pnpm` pour que les dépendances soient automatiquement cachées. (⚠️ ça ne cache pas les `node_modules`).
 
-Je ne vais pas rentrer dans les détails, mais sachez que ça utilise `actions/cache` pour faire ça [GitHub Actions - Cache action](https://github.com/actions/cache).
+Je ne vais pas rentrer dans les détails, mais sachez que ça utilise `actions/cache` pour faire ça [actions/cache](https://github.com/actions/cache).
 
 Voici comment faire :
 
