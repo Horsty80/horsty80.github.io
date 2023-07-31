@@ -14,7 +14,7 @@ title: Mes interventions
 - 17-01-2023 - [Kanoma](https://www.kanoma.fr/) - [À la découverte du développement mobile (sans les maux de tête)](https://www.linkedin.com/feed/update/urn:li:activity:7022149823352971264/)
 
 
-## 2022 :
+## 2022
   - 24-11-2022 - [Meetup React](https://www.meetup.com/fr-FR/react-nantes/events/289733654/) - Créer une extension navigateur : de l’idée à la Prod
   - 09-06-2022 - [Meetup React](https://www.meetup.com/fr-FR/react-nantes/events/286328403/) - Design system et Storybook - Retour d'expérience sur comment créer et partager une librairie de composant avec Storybook en 2022
 
