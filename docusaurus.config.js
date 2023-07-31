@@ -99,7 +99,7 @@ const config = {
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/blog/tags', label: 'Tags', position: 'left'},
-          {to: '/references', label: "Reférences", position: 'left'},
+          {to: '/intervention', label: "Interventions", position: 'left'},
           {
             href: 'https://github.com/Horsty80',
             // label: 'GitHub',
