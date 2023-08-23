@@ -1,0 +1,24 @@
+[
+  {
+    "id": "lifecounter",
+    "imgUrl": "/img/lifecounter-img.webp",
+    "name": "LifeCounter",
+    "description": "LifeCounter\n\nSimple et intuitif, conçu pour Magic TheGathering, cette application vous permettra de suivre vos points de vie et ceux de votre adversaire lors de votre duel.",
+    "mainUrl": "https://play.google.com/store/apps/details?id=com.horsty.LifeCounterApp&pli=1",
+    "urls": {
+      "ios": "https://play.google.com/store/apps/details?id=com.horsty.LifeCounterApp&pli=1"
+    }
+  },
+  {
+    "id": "myecoalert",
+    "imgUrl": "/img/128px.png",
+    "name": "MyEcoAlert",
+    "description": "MyEcoAlert\n\nSoyez à jour avec Ecowatt, la météo de l’électricité pour une consommation responsable.\nD'un simple regard sur l'icône de l'extension et vous aurez accès au niveau d'alerte actuel de la consommation française.\nUn clic sur l'extension et vous aurez la projection sur les prochains jours.",
+    "mainUrl":"https://chrome.google.com/webstore/detail/myecoalert/eogdnfamklilhapnocaaahmbanlbkkpf?hl=fr",
+    "urls": {
+      "chrome": "https://chrome.google.com/webstore/detail/myecoalert/eogdnfamklilhapnocaaahmbanlbkkpf?hl=fr",
+      "firefox": "https://addons.mozilla.org/fr/firefox/addon/myecoalert/",
+      "edge": "https://microsoftedge.microsoft.com/addons/detail/myecoalert/anpbmkiooibjfpfmdghcfpohglcblhnl"
+    }
+  }
+]
