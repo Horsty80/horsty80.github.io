@@ -6,6 +6,7 @@ tags: ["Horsty", "Interview", "Soft skills"]
 keywords: ["Horsty", "Interview", "Soft skills"]
 slug: /presentation
 authors: [chue]
+image: /img/avatar.png
 ---
 
 # Cyril alias Horsty

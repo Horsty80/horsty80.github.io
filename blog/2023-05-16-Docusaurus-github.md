@@ -4,6 +4,7 @@ authors: [chue]
 tags: [Docusaurus, GitHub, CI/CD, Pnpm]
 keywords: [Docusaurus, GitHub, CI/CD, Pnpm]
 slug: /docusaurus-github
+image: /img/docusaurus.png
 ---
 
 **Disclaimer** : L'idée de cette article vient de mon ami [Clainchoupi](https://github.com/clainchoupi) qui a fait un article sur le même sujet. Je vous invite à aller le lire, il est très bien écrit et très complet et ça se passe ici : [Clainchoupi - Docusaurus 🖤 GitHub pages](https://clainchoupi.github.io/blog/2023/05/13/Docusaurus_github).

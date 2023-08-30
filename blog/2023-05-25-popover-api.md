@@ -3,6 +3,7 @@ title: Popover API
 authors: [chue]
 tags: [Chrome, Safari, popover, Html]
 keywords: [Chrome, Safari, popover, Html]
+image: /img/popover.png
 ---
 
 ## Popover avant
@@ -11,6 +12,8 @@ Vous avez surement déjà vu des popovers sur des sites web. Ce sont des petites
 
 Si vous avez déjà essayé de faire un popover, vous avez surement galéré à le positionner correctement. Il faut prendre en compte la taille de la fenêtre, la position de l'élément, la taille de l'élément, la taille du popover, etc.
 En général, on utilise des librairies pour faire ça, mais saviez vous qu'il existe une API native pour faire des popovers ?
+
+<!--truncate-->
 
 ## Popover API
 
