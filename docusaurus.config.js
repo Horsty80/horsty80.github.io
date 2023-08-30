@@ -124,7 +124,7 @@ const config = {
               },
               {
                 label: "Archives",
-                to: "/blog/archives",
+                to: "/blog/archive",
               }
             ],
           },
