@@ -107,7 +107,7 @@ const config = {
         },
         items: [
           { to: "/blog", label: "Blog", position: "left" },
-          { to: "/blogs", label: "Articles", position: "left" },
+          { to: "/articles", label: "Articles", position: "left" },
           { to: "/interventions", label: "Interventions", position: "left" },
           { to: "/projets", label: "Projets", position: "left" },
           { to: "/blog/tags", label: "Tags", position: "left" },

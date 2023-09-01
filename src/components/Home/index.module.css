@@ -22,3 +22,19 @@
   align-items: center;
   justify-content: center;
 }
+
+.recentBlogPosts {
+    display: flex;
+    align-items: center;
+    padding: 2rem 0;
+    width: 100%;
+}
+.colorBand {
+  background-color: var(--ifm-color-primary);
+  /* padding: 1rem 0; */
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  height: 10px;
+  width: 100%;
+}

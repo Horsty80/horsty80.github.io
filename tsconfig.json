@@ -1,0 +1,13 @@
+{
+  // This file is not used in compilation. It is here just for a nice editor experience.
+  "extends": "@tsconfig/docusaurus/tsconfig.json",
+  "compilerOptions": {
+    "noUncheckedIndexedAccess": true,
+    "moduleResolution": "nodenext",
+    "module": "nodenext",
+    "baseUrl": ".",
+    "skipLibCheck": true,
+    "types": ["node", "react"],
+    "resolveJsonModule": true
+  }
+}
