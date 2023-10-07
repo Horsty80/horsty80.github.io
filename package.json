@@ -16,6 +16,7 @@
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "^1.1.0",
     "@docusaurus/core": "2.4.1",
+    "@docusaurus/plugin-ideal-image": "^2.4.1",
     "@docusaurus/preset-classic": "2.4.1",
     "@docusaurus/theme-classic": "^2.4.1",
     "@docusaurus/theme-common": "^2.4.1",
@@ -25,14 +26,17 @@
     "@tsconfig/docusaurus": "^2.0.0",
     "add": "^2.0.6",
     "clsx": "^1.2.1",
+    "color": "^4.2.3",
     "pnpm": "^8.5.1",
     "prism-react-renderer": "^2.0.6",
     "react": "^17.0.2",
     "react-bootstrap": "^2.8.0",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-popper": "^2.3.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.4.1",
+    "@types/color": "^3.0.4",
     "@types/node": "^20.5.8",
     "@types/react": "^18.2.21"
   },

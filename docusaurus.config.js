@@ -67,6 +67,18 @@ const config = {
       },
     ],
     [
+      'ideal-image',
+      /** @type {import('@docusaurus/plugin-ideal-image').PluginOptions} */
+      ({
+        quality: 70,
+        max: 1030,
+        min: 640,
+        steps: 2,
+        // Use false to debug, but it incurs huge perf costs
+        disableInDev: true,
+      }),
+    ],
+    [
       "./plugins/blog-plugin",
       {
         id: "blog",
@@ -110,6 +122,7 @@ const config = {
           { to: "/articles", label: "Articles", position: "left" },
           { to: "/interventions", label: "Interventions", position: "left" },
           { to: "/projets", label: "Projets", position: "left" },
+          { to: "/docs", label: "Docs", position: "left" },
           { to: "/blog/tags", label: "Tags", position: "left" },
           {
             href: "https://github.com/Horsty80",
