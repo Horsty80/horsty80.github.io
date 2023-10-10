@@ -41,7 +41,7 @@ So now how we are supposed to update the laser position ?
 
 We can determine a random position for the laser, so add 3 marker2D on the gun and use them to determine the position of the laser
 
-![Laser position](./img/laser-position.png)
+![Laser position](/img/laser-position.png)
 
 ```gdscript
 

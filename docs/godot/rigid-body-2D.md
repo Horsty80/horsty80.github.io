@@ -16,7 +16,7 @@ If we set the gravity to 0 we have a static body
 To move a static body, we need to update the Linear Velocity (for example to 100)
 Much more other settings are available.
 
-![Rigid Body 2D](./img/rigid-body-2d.png)
+![Rigid Body 2D](/img/rigid-body-2d.png)
 
 :::tip
 In gdscript we can cast type with `as` keyword
@@ -44,7 +44,7 @@ We need to get the direction between the player and the mouse position.
 
 To get direction between 2 vector, the player and the mouse position, we need to get the target vector position and subtract the current position and after normalize it (godot imperative).
 
-![VectorMap](./img/vector_map.png)
+![VectorMap](/img/vector_map.png)
 
 ```gdscript
 # In the player script

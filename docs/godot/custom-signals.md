@@ -22,7 +22,7 @@ func _on_area_2d_body_entered(body):
 After that inside the other node we can connect to that the signal.
 Select our node, and in the inspector, in the signals tab, we can connect to the custom signal.
 
-![Custom Signal](./img/custom-signal.png)
+![Custom Signal](/img/custom-signal.png)
 
 And now inside our script we have the connected custom signal
 
