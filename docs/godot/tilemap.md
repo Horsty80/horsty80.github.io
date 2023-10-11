@@ -30,6 +30,24 @@ We need a **Tileset** compose of **Tile**, much easier to manage. We can add col
 More detailsyou add to our level, the better is going to look.
 :::
 
-⚠️ **Comin soon** ⚠️
+For starting, we need to add a **Tilemap** node to our scene.
 
-WIP
+![Tilemap](/img/node-tilemap.png)
+
+Now we need to add a **Tileset** to our **Tilemap**. Go to the inspector and in the tileset property you can add new Tileset
+
+![Tilemap](/img/adding-tileset.png)
+
+In the bottom panel, you can see 2 news tab, **Tileset** and **Tilemap**, if you select tileset, you can drag and drop your tileset inside the list on the left. You can customize and setup a few thing, like the **Tile Size**.
+Your image is now cut in multiple tiles. Switch to Tilemap panel, You can select one of them and start to placing them in your level. (with some zone helper like a rectangle)
+
+![Tilemap](/img/tileset.png)
+
+The next thing to know is the **Layer**. You can add multiple layer to your tilemap, it's like a photoshop layer. You can add a new layer in the inspector panel, of your **Tilemap**.
+
+![Tilemap](/img/tilemap-layer.png)
+
+I've created 2 layer, the soil and the walls, the top layer would be the first (the soil) and the second (walls) layer would be placed on top of the first layer (soil) in our scene.
+You can add much more layer, just be careful of the order for superposition. And don't forget to select the right layer before placing your tile in the Tilemap bottom screen.
+
+![Tilemap](/img/layer-selector.png)
