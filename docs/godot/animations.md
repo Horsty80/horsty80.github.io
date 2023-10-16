@@ -71,6 +71,6 @@ So be carefull and don't forget to reset the value of your property if needed.
 The animation can be an other way to trigger function or to change property of a node.
 :::
 
-![Explosion animation](/img/explosion-animation.png)
-
 ![Blinking animation](/img/blinking-animation.png)
+
+![Explosion animation](/img/explosion-animation.png)
