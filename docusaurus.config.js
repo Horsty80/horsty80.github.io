@@ -122,7 +122,7 @@ const config = {
           { to: "/articles", label: "Articles", position: "left" },
           { to: "/interventions", label: "Interventions", position: "left" },
           { to: "/projets", label: "Projets", position: "left" },
-          { to: "/docs", label: "Docs", position: "left" },
+          { to: "/docs/category/godot", label: "Docs", position: "left" },
           { to: "/blog/tags", label: "Tags", position: "left" },
           {
             href: "https://github.com/Horsty80",
